@@ -1,19 +1,19 @@
 {
-    "name": "Xlicon-V3-MD",
+    "name": "𝐹𝒜𝑅𝒪𝒪𝒬 𝒜 𝒮",
     "version": "3.0",
-    "description": "Whatsapp Bot By SalmanSer",
+    "description": "Whatsapp Bot By 𝐹𝒜𝑅𝒪𝒪𝒬 𝒜 𝒮",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "XliconMedia"
+        "media": "𝐹𝒜𝑅𝒪𝒪𝒬 𝒜 𝒮"
     },
     "scripts": {
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "salmanytofficial",
+    "author": "𝐹𝒜𝑅𝒪𝒪𝒬 𝒜 𝒮",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
